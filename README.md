@@ -29,7 +29,7 @@
 
 | Projekt | Popis | Tech |
 |--------|-------|------|
-| [hradebnismp-gallery](https://github.com/Semachiahshi/hradebnismp-gallery) | Webová galerie pro školní akci | HTML · CSS |
+| [hradebnismp-gallery](https://github.com/Semachiahshi/hradebnismp-gallery) | Webová galerie pro školní akci · [🌐 živé demo](https://hradebnismp.semachiah.fun) | HTML · CSS |
 | [kolobolo](https://github.com/Semachiahshi/kolobolo) | Vlastní projekt v TypeScriptu | TypeScript |
 | [database_try](https://github.com/Semachiahshi/database_try) | Práce s databází | SQL |
 | [person](https://github.com/Semachiahshi/person) | JavaScript projekt | JavaScript |
